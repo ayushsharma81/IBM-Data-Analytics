@@ -3,7 +3,7 @@
 **IBM SkillsBuild Data Analytics with AI — Academic Internship 2026**
 Conducted by **BharatCares** in association with **AICTE**
 
-**Author:** YourName
+**Author:** AYUSH
 
 ---
 
